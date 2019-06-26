@@ -74,13 +74,11 @@ Describe the basic steps required to utilize this package. Provide additional se
 This project has yet to make any releases. When it does, each release should be documented here with a sub-section for the version, and a bulleted list of itemized changes tagged with the kind of change, e.g. *fixed*, *added*, *removed*, or *deprecated*.
 
 
-License
-=======
+## License
 
 $project has been released under the MIT Open Source license.
 
-The MIT License
----------------
+### The MIT License
 
 Copyright © 2019 Alice Bevan-McGregor and contributors.
 
