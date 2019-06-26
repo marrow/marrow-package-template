@@ -32,7 +32,7 @@ Provide a more detailed or in-depth description here, being sure to cover both r
 
 ## Installation
 
-Installing `$project` is easy, just execute the following in a terminal::
+Installing `$project` is easy, just execute the following in a terminal:
 
 	pip install $project
 
@@ -56,7 +56,7 @@ Installing the current development version requires [Git][git]), a distributed s
 	git clone https://github.com/marrow/$repo.git
 	pip install -e '$repo[development]'
 
-You can then upgrade to the latest version at any time, from within that source folder::
+You can then upgrade to the latest version at any time, from within that source folder:
 
 	git pull
 	pip install -e '.[development]'
