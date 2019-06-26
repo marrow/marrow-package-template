@@ -47,7 +47,7 @@ This package has the following dependencies:
 
 ### Development Version
 
-> ![][developstatus] ![][developcover] ![][ghsince] ![][issuecount] ![][ghfork]
+> ![][developstatus] ![][developcover] ![][ghsince] ![][ghissues] ![][ghfork]
 
 Development takes place on [GitHub][github] in the [$repo][repo] project. Issue tracking, documentation, and downloads are provided there.
 
