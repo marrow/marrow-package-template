@@ -7,17 +7,6 @@ assignees: amcgregor
 
 ---
 
-**Describe the solution you'd like**
-
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
-
-
-
 Enter a clear and concise description of what you want to happen here. Keep the length to one or two paragraphs, more specific (i.e. technical) detail can be added further on. The title of the issue should provide sufficient detail so as to easily locate the ticket in the future, and should identify the primary action item or concern. Delete this introduction, any unused sections, empty lists, section dividers, and instructional text (block quotes) prior to submission.
 
 
