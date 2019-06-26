@@ -53,7 +53,7 @@ Development takes place on [GitHub][github] in the [$repo][repo] project. Issue 
 
 Installing the current development version requires [Git][git]), a distributed source code management system. If you have Git you can run the following to download and *link* the development version into your Python runtime:
 
-	git clone https://github.com/marrow/cinje.git
+	git clone https://github.com/marrow/$repo.git
 	pip install -e '$repo[development]'
 
 You can then upgrade to the latest version at any time, from within that source folder::
