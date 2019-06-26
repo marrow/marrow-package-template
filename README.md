@@ -2,7 +2,7 @@
 
 > This is a project template, meant for duplication and use as a starting point. Please search through these files for any occurrences of, and populate: `$project`, `$package`, `$version`, `$repo`, ...
 
-![][latestversion] ![][ghtag] ![][masterstatus] ![][mastercover] ![][masterreq] ![][ghwatch] ![][ghstar]
+![][latestversion] ![][ghtag] ![][masterstatus] ![][mastercover] ![][masterreq] [![][ghwatch]][ghsubscription] [![][ghstar]][ghsubscription]
 
 > © 2019 Alice Bevan-McGregor and contributors.
 
@@ -47,7 +47,7 @@ This package has the following dependencies:
 
 ### Development Version
 
-> ![][developstatus] ![][developcover] ![][ghsince] ![][ghissues] ![][ghfork]
+> ![][developstatus] ![][developcover] ![][ghsince] ![][ghissues] [![][ghfork]][ghfork_]
 
 Development takes place on [GitHub][github] in the [$repo][repo] project. Issue tracking, documentation, and downloads are provided there.
 
@@ -99,7 +99,9 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 [ghwatch]: https://img.shields.io/github/watchers/marrow/$repo.svg?style=social&label=Watch "Subscribe to project activity on GitHub."
 [ghstar]: https://img.shields.io/github/stars/marrow/$repo.svg?style=social&label=Star "Star this project on GitHub."
+[ghsubscription]: https://github.com/marrow/cinje/subscription
 [ghfork]: https://img.shields.io/github/forks/marrow/$repo.svg?style=social&label=Fork "Fork this project on Github."
+[ghfork_]: https://github.com/marrow/cinje/fork
 
 [masterstatus]: http://img.shields.io/travis/marrow/$repo/master.svg?style=flat "Production build status."
 [mastercover]: http://img.shields.io/codecov/c/github/marrow/$repo/master.svg?style=flat "Production test coverage."
