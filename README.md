@@ -4,7 +4,7 @@
 
 ![][latestversion] ![][ghtag] ![][masterstatus] ![][mastercover] ![][masterreq] ![][ghwatch] ![][ghstar]
 
-> © 2016-2017 Alice Bevan-McGregor and contributors.
+> © 2019 Alice Bevan-McGregor and contributors.
 
 > https://github.com/marrow/$repo
 
