@@ -4,7 +4,7 @@
 
 [![][latestversion]][latestversion_] [![][ghtag]][ghtag_] [![][masterstatus]][masterstatus_] [![][mastercover]][mastercover_] [![][masterreq]][masterreq_] [![][ghwatch]][ghsubscription] [![][ghstar]][ghsubscription]
 
-> © 2019 Alice Bevan-McGregor and contributors.
+> © 2021 Alice Bevan-McGregor and contributors.
 
 > https://github.com/marrow/$repo
 
@@ -38,7 +38,7 @@ Installing `$project` is easy, just execute the following in a terminal:
 
 **Note:** We *strongly* recommend always using a container, virtualization, or sandboxing environment of some kind when developing using Python. We highly recommend use of the Python standard [`venv` (_"virtual environment"_) mechanism][venv].
 
-If you add `$project` to the `install_requires` argument of the call to `setup()` in your application's `setup.py` or `setup.cfg` files, $project will be automatically installed and made available when your own application or library is installed. Use `$project ~= $version` to get all bugfixes for the current release while ensuring that large breaking changes are not installed by limiting to the same major/minor, >= the given patch level.
+If you add `$project` to the `install_requires` argument of the call to `setup()` in your application's `setup.py` or `setup.cfg` files, $project will be automatically installed and made available when your own application or library is installed. Use `$project ~= $version` to get all bug fixes for the current release while ensuring that large breaking changes are not installed by limiting to the same major/minor, >= the given patch level.
 
 This package has the following dependencies:
 
@@ -80,7 +80,7 @@ $project has been released under the MIT Open Source license.
 
 ### The MIT License
 
-Copyright © 2019 Alice Bevan-McGregor and contributors.
+Copyright © 2021 Alice Bevan-McGregor and contributors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
