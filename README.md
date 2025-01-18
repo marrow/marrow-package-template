@@ -20,6 +20,8 @@ Please describe the package here in few sentences; the goal is about a paragraph
 
 3. [Getting Started](#getting-started)
 
+4. [Supporting the Project](#supporting-the-project)
+
 4. [Version History](#version-history)
 
 5. [License](#license)
