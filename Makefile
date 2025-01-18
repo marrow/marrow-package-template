@@ -54,3 +54,4 @@ ${PROJECT}.egg-info/PKG-INFO: setup.py setup.cfg
 	@echo " \033[1;32m*\033[0m Collecting \033[1m${PROJECT}\033[0m metadata..."
 	
 	./setup.py -q egg_info
+
