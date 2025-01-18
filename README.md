@@ -71,7 +71,7 @@ Describe the basic steps required to utilize this package. Provide additional se
 
 ## Supporting the Project
 
-This project is developed and maintained by Alice, with contributions from a small number of additional individuals. If you appreciate the software provided open-source and free of encumbrance, please consider a small financial contribution [through Patreon](https://patreon.com/GothAlice).
+This project is developed and maintained by Alice, with contributions from a small number of additional individuals. If you appreciate the software provided open-source and free of encumbrance, please consider a small financial contribution [through Patreon](https://patreon.com/GothAlice) or [GitHub Sponsors](https://github.com/sponsors/amcgregor).
 
 
 ## Version History
