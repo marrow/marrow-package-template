@@ -69,6 +69,11 @@ If you would like to make changes and contribute them back to the project, fork 
 Describe the basic steps required to utilize this package. Provide additional sections or subsections as needed. If this documentation exceeds an additional section or two, consider writing a GitBook instead.
 
 
+## Supporting the Project
+
+This project is developed and maintained by Alice, with contributions from a small number of additional individuals. If you appreciate the software provided open-source and free of encumbrance, please consider a small financial contribution [through Patreon](https://patreon.com/GothAlice).
+
+
 ## Version History
 
 This project has yet to make any releases. When it does, each release should be documented here with a sub-section for the version, and a bulleted list of itemized changes tagged with the kind of change, e.g. *fixed*, *added*, *removed*, or *deprecated*.
@@ -127,3 +132,4 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 [latestversion_]: https://pypi.python.org/pypi/$project
 
 [cake]: http://img.shields.io/badge/cake-lie-1b87fb.svg?style=flat
+
