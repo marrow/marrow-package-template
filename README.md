@@ -2,7 +2,7 @@
 
 > This is a project template, meant for duplication and use as a starting point. Please search through these files for any occurrences of, and populate: `$project`, `$package`, `$version`, `$repo`, ...
 
-[![][latestversion]][latestversion_] [![][ghtag]][ghtag_] [![][masterstatus]][masterstatus_] [![][mastercover]][mastercover_] [![][masterreq]][masterreq_] [![][ghwatch]][ghsubscription] [![][ghstar]][ghsubscription]
+[![][latestversion]][latestversion_] [![][ghtag]][ghtag_] [![][masterstatus]][masterstatus_] [![][mastercover]][mastercover_] [![][masterreq]][masterreq_] [![][ghwatch]][ghsubscription] [![][ghstar]][ghsubscription] [![][ghsponsor][ghsponsors_]]
 
 > © 2025 Alice Bevan-McGregor and contributors.
 
@@ -130,6 +130,8 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 [ghsince_]: https://github.com/marrow/cinje/commits/develop
 [ghtag]: https://img.shields.io/github/tag/marrow/$repo.svg "Latest Github tagged release."
 [ghtag_]: https://github.com/marrow/cinje/tree/$version
+[ghsponsor]: https://img.shields.io/github/sponsors/amcgregor
+[ghsponsors_]: https://github.com/sponsors/amcgregor
 [latestversion]: http://img.shields.io/pypi/v/$project.svg?style=flat "Latest released version on Pypi."
 [latestversion_]: https://pypi.python.org/pypi/$project
 
