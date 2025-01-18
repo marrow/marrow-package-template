@@ -30,7 +30,7 @@ Enter a brief summary of the incident or request here. Keep the length to one or
 
 ### Steps to Reproduce
 
-1. Identify the speific steps to follow to encounter the problem.
+1. Identify the specific steps to follow to encounter the problem.
 
 ---
 
@@ -57,3 +57,4 @@ Please provide given/when/then user stories describing the desired user interact
 No direct dependencies.
 
 * List any issue dependencies here.
+
